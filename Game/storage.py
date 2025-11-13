@@ -1,58 +1,64 @@
 import json
 import os
 
+RECORD_DIR = "Record"
+RECORD_FILE = os.path.join(RECORD_DIR, "record.json")
+
+
 class Storage:
-    def __init__(self, folder_name="Record", filename="records.json"):
-        self.folder_name = folder_name
-        self.filename = filename
-        self.filepath = os.path.join(self.folder_name, self.filename)
+    def __init__(self):
+        """Ensure the Record folder and file exist."""
+        if not os.path.exists(RECORD_DIR):
+            os.makedirs(RECORD_DIR)
+        if not os.path.exists(RECORD_FILE):
+            with open(RECORD_FILE, "w") as f:
+                json.dump({}, f, indent=4)
 
-        # Ensure folder exists
-        os.makedirs(self.folder_name, exist_ok=True)
-
-        # Load or create records
-        self.records = self._load_records()
-
-    def _load_records(self):
-        """Load player records from the JSON file if it exists."""
-        if os.path.exists(self.filepath):
+    def _load_all_records(self):
+        """Load all player records from file."""
+        with open(RECORD_FILE, "r") as f:
             try:
-                with open(self.filepath, "r") as file:
-                    return json.load(file)
+                return json.load(f)
             except json.JSONDecodeError:
-                print("⚠️ Corrupted records file. Creating a new one.")
                 return {}
-        return {}
 
-    def save_records(self):
-        """Save all player records to the JSON file."""
-        with open(self.filepath, "w") as file:
-            json.dump(self.records, file, indent=4)
+    def _save_all_records(self, records):
+        """Save all records back to file."""
+        with open(RECORD_FILE, "w") as f:
+            json.dump(records, f, indent=4)
 
     def get_record(self, player_name):
-        """Retrieve a player's record, if it exists."""
-        return self.records.get(player_name, None)
+        """Retrieve the record of a specific player."""
+        records = self._load_all_records()
+        return records.get(player_name)
 
     def update_record(self, player_name, time_taken, attempts_left):
         """
-        Save or update player's record if it's better than previous.
-        Better = less time OR more attempts left.
+        Update record for the player.
+        A better record means more attempts left or same attempts but less time.
         """
+        records = self._load_all_records()
+        current = records.get(player_name)
+
         new_record = {
             "Time taken (seconds)": round(time_taken, 2),
             "Attempts left": attempts_left
         }
 
-        existing_record = self.records.get(player_name)
+        if current:
+            prev_time = current.get("Time taken (seconds)")
+            prev_attempts = current.get("Attempts left")
 
-        if existing_record:
-            old_time = existing_record["Time taken (seconds)"]
-            old_attempts = existing_record["Attempts left"]
-
-            # Update only if performance improved
-            if time_taken < old_time or attempts_left > old_attempts:
-                self.records[player_name] = new_record
+            # Compare — better if more attempts left or equal attempts but less time
+            if (attempts_left > prev_attempts) or (
+                attempts_left == prev_attempts and time_taken < prev_time
+            ):
+                records[player_name] = new_record
+                print(f"\n🎉 New Record for {player_name}! Saved successfully!\n")
+            else:
+                print("\nRecord not beaten this time. Keep trying!\n")
         else:
-            self.records[player_name] = new_record
+            records[player_name] = new_record
+            print(f"\n🏅 First record saved for {player_name}!\n")
 
-        self.save_records()
+        self._save_all_records(records)

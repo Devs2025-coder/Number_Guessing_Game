@@ -3,14 +3,17 @@ from Game.player import Player
 from Game.guess_number import GuessNumber
 import logo  # assuming logo.logo exists
 
+
 class Game:
     def __init__(self):
+        """Initialize the game and create a player."""
         print(logo.logo)
         print("\n🎮 Welcome to the Number Guessing Game!")
         name = input("Enter your name: ").strip().title() or "Player"
         self.player = Player(name)
 
     def welcome_message(self):
+        """Display basic game info and difficulty levels."""
         print("\nI'm thinking of a number between 1 and 100.")
         print("Please select the difficulty level:")
         print(" 1. Easy (10 Chances)")
@@ -26,6 +29,7 @@ class Game:
             print("Alright, let's continue!\n")
 
     def select_difficulty(self):
+        """Allow player to select difficulty level."""
         while True:
             try:
                 diff = int(input("Enter your choice (1-3): "))
@@ -36,6 +40,7 @@ class Game:
                 print("❌ Invalid choice. Please enter 1, 2, or 3.")
 
     def play(self):
+        """Run a full game session for one round."""
         self.welcome_message()
         self.ask_to_view_record()
 
@@ -51,7 +56,7 @@ class Game:
             try:
                 guess = int(input("Enter your guess: "))
             except ValueError:
-                print("⚠️ Please enter a valid number.")
+                print("⚠️ Please enter a valid number.\n")
                 continue
 
             result = game_session.check_guess(guess)
@@ -63,7 +68,7 @@ class Game:
             else:
                 end_time = time.time()
                 time_taken = end_time - start_time
-                print(f"🎉 Congrats {self.player.name}! You guessed the number correctly in {time_taken:.2f} seconds!")
+                print(f"\n🎉 Congrats {self.player.name}! You guessed the number correctly in {time_taken:.2f} seconds!")
                 self.player.update_record(time_taken, game_session.attempts)
                 break
 
@@ -81,6 +86,7 @@ class Game:
             print("Okay, record saved silently. 😊")
 
     def start(self):
+        """Main loop to run multiple game rounds."""
         play_again = "yes"
         while play_again == "yes":
             self.play()
