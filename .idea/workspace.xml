@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2ed0b1c-d293-4ff8-8dd7-c7154c36b80e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-42.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-46.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-49.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-51.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-52.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-53.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-54.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-55.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-56.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-57.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-58.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-59.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-60.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-61.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-62.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-63.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-64.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-65.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-66.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-67.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-68.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-69.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-70.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-71.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-72.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-74.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-75.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-76.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-77.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-78.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-79.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-80.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-81.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-82.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-83.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-84.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-85.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-86.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-87.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-88.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-89.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-90.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-91.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-92.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-93.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-94.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-95.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-96.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-97.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-98.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100pytonExcercise/Ex-99.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLI_ToDo_App/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLI_ToDo_App/.idea/CLI_ToDo_App.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLI_ToDo_App/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLI_ToDo_App/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLI_ToDo_App/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLI_ToDo_App/Core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLI_ToDo_App/Core/filtering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLI_ToDo_App/Core/prioritized_tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLI_ToDo_App/Core/search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLI_ToDo_App/Core/task_ops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLI_ToDo_App/Core/todo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLI_ToDo_App/Data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLI_ToDo_App/Data/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLI_ToDo_App/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLI_ToDo_App/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLI_ToDo_App/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLI_ToDo_App/utils/storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExpenseTrackerApp/ExpenseTrackerApp_1.0/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExpenseTrackerApp/ExpenseTrackerApp_1.0/data/expenses.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExpenseTrackerApp/ExpenseTrackerApp_1.0/manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExpenseTrackerApp/ExpenseTrackerApp_1.0/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExpenseTrackerApp/ExpenseTrackerApp_1.0/storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExpenseTrackerApp/ExpenseTrackerApp_1.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub_User_Activity/GitHub_User_Activity_1.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub_User_Activity/GitHub_user_Activity_1.0/github_activity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/DateTime/Datetime_library.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Seaborn/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Seaborn/BarPlot.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Seaborn/BoxPlot.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Seaborn/CatPlot.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Seaborn/CountPlot.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Seaborn/Heatmap.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Seaborn/Histogram.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Seaborn/LinePlot.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Seaborn/Medicaldataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Seaborn/Multipleplots.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Seaborn/Pairpot.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Seaborn/ScatterPlot.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Seaborn/Strip.plot.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Seaborn/StylingPlot.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Seaborn/ViolinPlot.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Seaborn/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Test_new.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Test_new1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Tkinter/Button_in_tkinter.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Tkinter/Geometry_manager.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Tkinter/Label.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Tkinter/TkinterVariables.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Tkinter/Tkinter_Window1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Tkinter/Tkinter_Window2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Tkinter/image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/Tkinter/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/collection/collection module.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/matplotlib/MatplotHistogram.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/matplotlib/MatplotlibBars.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/matplotlib/MatplotlibPieChart.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/matplotlib/MatplotlibScatterPlots.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/matplotlib/intro.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/matplotlib/markers.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/matplotlib/matplotlibLableANDTitles.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/matplotlib/matplotlibPLT.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/matplotlib/matplotlibSubplot.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/matplotlib/matpoltgridlines.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/matplotlib/matpoltlibLINE.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/numpyPrograms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/pandasprograms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/pyqt5/HelloWorld.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/pyqt5/Practice/HelloWorld.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/pyqt5/Practice/Practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/pyqt5/QFormLayout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/pyqt5/combo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/pyqt5/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/pyqt5/helloWorld.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/pyqt5/spinBox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/pyqt5/spinBox2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/pyqt5/textBox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_libraries/time/time.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/.idea/Pythonexcercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/D_B_using_recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/Display_calender.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/Find_ASCII_value_of_character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/Multiplication_of_two_matrices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/Shuffle_deck_of_cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/Square_root_of_a_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/accessing_index_of_a_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/add_two_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/add_two_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/area_of_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/armstrong_number_checking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/arrange_strings_in_dictionary_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/celcious_to_farenheite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/check_a_word_is_keyword_or_not.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/check_list_is_empty_or_not.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/checking_a_string_palindroe_or_not.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/checking_prime_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/concatenate_two_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/cout_vowels_in_a_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/decimal_to_hexadecimal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/decimal_to_octal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/decimal_to_other_number_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/extrct_substring_from_a_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/factorial_uing_recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/fibonacci _series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/fibonacci_series_using_recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/find_HCF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/find_factor_of_a_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/generate_a_random_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/kilometers-miles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/largestnumber_checking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/leap_year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/list_comprehension_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/make_nested_directory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/merge_two_dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/multiplication_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/numberlist_divisible_by_another_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/odd_even_checking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/positive_negative_or_zero_checking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/power_of_2_using_anonymus_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/print_o/p_without_a_newline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/remoing_puntucations_from_a_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/simple_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/sort_a_dicitionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/string_to_datetime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/sum_of_n_natural_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/sumofnaturalnumbers_usingrecursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/swap_two_virables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/text_to_speech.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/transpose_of_a_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/using_of_nextFunction_and_iterFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonexcercises/welcome.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/.idea/Python programs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/.idea/easycode.ignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/.idea/easycode/codebase-v2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/BMI calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/Data_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/Even-odd_checking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/Excercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/Excercise3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/Finding location of a variable in python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/FizzBuzz program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/Grading system using dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/Head_Tail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/Hybrid_Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/Identity &amp; membership Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/Input Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/Leap_year checking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/Length of a string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/Love calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/Pizza Order program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/area_and_circumferrence_ofATriangle_using_oops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/checkingprimenumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/excercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/excercise4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/excercise5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/excercise6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/excercise7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/excercise8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/f_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/hello world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/hierarchical_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/highscore.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/multilevel_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/multiple_inheritnce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/nested_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/nesteddictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/python print function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/returning_daysofamonth_using_returnstatement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/setoperations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/swapping of two numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pythonprograms from Jenny's lectures/who will pay the bill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/Emails_using_python/emails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/Emails_using_python/emails2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/Emails_using_python/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/Image_processing/Nature'sCreation/Coorg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/Image_processing/Nature'sCreation/KODAIKANAL.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/Image_processing/Nature'sCreation/Khajjiar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/Image_processing/Nature'sCreation/Leopard.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/Image_processing/Nature'sCreation/North_east.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/Image_processing/Nature'sCreation/Shutterstock.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/Image_processing/any_imageFiles_to_PNG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/Image_processing/any_imageFiles_to_jpg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/Image_processing/images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/Image_processing/jpgimages/Coorg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/Image_processing/pngimages/Coorg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/Image_processing/pngimages/KODAIKANAL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/Image_processing/pngimages/Khajjiar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/Image_processing/pngimages/Leopard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/Image_processing/pngimages/North_east.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/Image_processing/pngimages/Shutterstock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/Image_processing/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/PDFs_with_python/25500123008_JeetChowdhury (3)-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/PDFs_with_python/Industry Invited Talk.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/PDFs_with_python/MENTORSHIP Form(Jeet Chowdhury_25500123008).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/PDFs_with_python/PDFMerger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/PDFs_with_python/Project_report2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/PDFs_with_python/final_merged.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/PDFs_with_python/pdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/PDFs_with_python/rotated_page.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/PDFs_with_python/watermark.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/PDFs_with_python/watermarked_pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scripting/PDFs_with_python/wtr.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/.idea/PythonDevelopment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/.idea/easycode.ignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/.idea/easycode/codebase-v2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Add ing or ly to a string.Add ing or ly to a string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Calculate string length.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Check Circularly Identical Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Circle Area Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Count Strings with Same Start and End.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Count character frequency in a string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Create_class_and_object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Current DateTime Display.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Days Between Dates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Error_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Exam Schedule Formatter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/File Extension Extractor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/File_Handling/FH1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/File_Handling/file_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/File_Handling/file_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/File_Handling/file_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/File_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Find Words Longer Than n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Find first non repeating character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Find first repeated word in a string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Find repeted character with smallest index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Find_second_most_repeated_word_in_a_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/First GUI based excercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/First and Last Colors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Formatted Twinkle Poem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Function Documentation Printer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Generate 3D Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Generate all permutations of a list in Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Generators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Get string of first and last 2 chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/List and Tuple Generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Monthly Calendar Display.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Multi-line Here Document.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Multiply Items in List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Number Expansion Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Number_Guessing_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Prefix Is String Modifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Python Version Checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Python script to sort a dictionary by value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Remove Duplicates from List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Remove odd index chars from a string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Replace 'not'...'poor' with 'good'.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Replace first char occurrences with $.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Reverse Full Name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Shopping/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Shopping/shopping_cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Sort Tuples by Last Element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Sphere Volume Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Split_a_list_at_every_nth_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/String Copy Generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Sum Items in List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Swap first 2 chars of 2 strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Swap first and last chars of a string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Test_new.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/Test_new1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/TypeHinting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/WebScraping/Hacker_News_Project/scrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/concurrency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/concurrency/asyncANDawait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/concurrency/receiving_through_yield.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/concurrency/thread1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/concurrency/thread2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/convert_list_to_list_of_dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/dunder_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/extending_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/functional_programming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/importing_a_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/list_comprehension_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/numpyPrograms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/pandasprograms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/passwordGenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/practice2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/pythonDebuggin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/regularExpression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/test_ja.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/test_number_guessing_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/translator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonDevelopment/utility.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="35QRdhTDSxYfCduWJbVt2rJmKUM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-348a24fa61fa-5312c7369657-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2ed0b1c-d293-4ff8-8dd7-c7154c36b80e" name="Changes" comment="" />
+      <created>1763040397764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763040397764</updated>
+    </task>
+    <servers />
+  </component>
+</project>
