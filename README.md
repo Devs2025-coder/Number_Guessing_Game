@@ -11,6 +11,9 @@ It also stores the **highest record** (best time and attempts) in a JSON file fo
 
 ---
 
+## Project URL:
+https://roadmap.sh/projects/number-guessing-game
+
 ## 🧠 Features
 
 - 🎯 **Three Difficulty Levels:**
@@ -148,5 +151,3 @@ Enter your guess: 52
 ---
 
 ⭐ **If you liked this project, don’t forget to star the repository!**
-
-```
